@@ -1,2 +1,2 @@
-# algorithm-console-c-
+# algorithm-console-c sharp
 algoritmo in c# net core
