@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ePWBk+qi4qQiCG+bHDr4lgA38w0tVEtwlZMuL4hW74LKpnISYvIG9PiTcix4x+z92/WMIfWzSQT9ajbqj/ZNxg==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\algorithm-console\\algorithm-console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zuly\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+E:\Projects\algorithm-console\bin\Debug\netcoreapp3.1\algorithm-console.exe
+E:\Projects\algorithm-console\bin\Debug\netcoreapp3.1\algorithm-console.deps.json
+E:\Projects\algorithm-console\bin\Debug\netcoreapp3.1\algorithm-console.runtimeconfig.json
+E:\Projects\algorithm-console\bin\Debug\netcoreapp3.1\algorithm-console.runtimeconfig.dev.json
+E:\Projects\algorithm-console\bin\Debug\netcoreapp3.1\algorithm-console.dll
+E:\Projects\algorithm-console\bin\Debug\netcoreapp3.1\algorithm-console.pdb
+E:\Projects\algorithm-console\obj\Debug\netcoreapp3.1\algorithm-console.csprojAssemblyReference.cache
+E:\Projects\algorithm-console\obj\Debug\netcoreapp3.1\algorithm-console.AssemblyInfoInputs.cache
+E:\Projects\algorithm-console\obj\Debug\netcoreapp3.1\algorithm-console.AssemblyInfo.cs
+E:\Projects\algorithm-console\obj\Debug\netcoreapp3.1\algorithm-console.csproj.CoreCompileInputs.cache
+E:\Projects\algorithm-console\obj\Debug\netcoreapp3.1\algorithm-console.dll
+E:\Projects\algorithm-console\obj\Debug\netcoreapp3.1\algorithm-console.pdb
+E:\Projects\algorithm-console\obj\Debug\netcoreapp3.1\algorithm-console.genruntimeconfig.cache
